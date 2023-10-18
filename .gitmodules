@@ -1,0 +1,3 @@
+[submodule "lib/mqtt-packet"]
+	path = lib/mqtt-packet
+	url = https://github.com/mqttjs/mqtt-packet
