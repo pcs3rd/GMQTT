@@ -1,0 +1,8 @@
+{
+  "name": "MQTT Client",
+  "description": "A MQTT client wrapped into a GNOME shell extension.",
+  "uuid": "GMQTT@rdean.stickpile.net",
+  "shell-version": [
+    "44"
+  ]
+}
